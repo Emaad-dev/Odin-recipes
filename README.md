@@ -1,6 +1,6 @@
 # Odin Recipes
 
-This project is part of **The Odin Project** Foundations curriculum. It is a basic recipe website built using HTML and structured using Git version control.
+This project is part of The Odin Project Foundations curriculum. It is a multi-page recipe website built using HTML and CSS, and structured using Git version control.
 
 ## 🍽️ Included Recipes
 
@@ -16,3 +16,7 @@ This project is part of **The Odin Project** Foundations curriculum. It is a bas
 - Constructing unordered (`<ul>`) and ordered (`<ol>`) nested lists
 - Linking local pages using relative file paths (`../`)
 - Version control using Git and GitHub (`add`, `commit`, `push`)
+- External CSS styling using a linked styles.css file
+- CSS selectors (Element, Class, and ID selectors) and basic rule sets
+- Understanding the CSS Box Model (content, padding, border, margin) and box-sizing: border-box
+- Managing specificity, inheritance, and The Cascade
