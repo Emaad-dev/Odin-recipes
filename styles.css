@@ -1,0 +1,23 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    color: brown;
+    background-color: bisque;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2, h3{
+    color: black;
+}
+
+img{
+    height: 300px;
+    width: auto;
+    border-radius: 8px;
+}
